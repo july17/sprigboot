@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  spring:
+  users-mysql:
     image: users-mysql
     ports:
       - 8086:8086
